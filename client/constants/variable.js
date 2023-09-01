@@ -169,5 +169,6 @@ module.exports = {
   docHref: {
     adv_mock_case: 'https://hellosean1025.github.io/yapi/documents/mock.html',
     adv_mock_script: 'https://hellosean1025.github.io/yapi/documents/adv_mock.html'
-  }
+  },
+  XML_HEADER: '<?xml version="1.0" encoding="UTF-8"?>'
 };
